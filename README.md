@@ -2,7 +2,7 @@
 
 An end-to-end binary classification project predicting loan default risk on a 255K+ record dataset, with a deployed interactive demo.
 
-🔗 **Live App:** [loandefaultprediction-vvuxkummew2cajb8lif7cm.streamlit.app](https://loandefaultprediction-vvuxkummew2cajb8lif7cm.streamlit.app
+🔗 **Live App:** [loandefaultprediction-vvuxkummew2cajb8lif7cm.streamlit.app](https://loandefaultprediction-vvuxkummew2cajb8lif7cm.streamlit.app)
 
 ---
 
